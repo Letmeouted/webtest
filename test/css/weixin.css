@@ -1,0 +1,9 @@
+.box-right .box-right-mid .box-contact span{
+	display: block;
+	width: 160px;
+	height: 160px;
+	background-image: url("../img/weixin-jingzhun.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+}
