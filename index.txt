@@ -1,0 +1,3 @@
+{{ $item("0").$node["Github Trigger1"].json["body"]["repository"]["owner"] }}
+{{ $node["Github Trigger1"].json["body"]["starred_at"] }}
+{{ $node["Github Trigger1"].json["body"]["repository"]["comments_url"] }}
