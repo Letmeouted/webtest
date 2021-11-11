@@ -1,3 +1,5 @@
 {{ $item("0").$node["Github Trigger1"].json["body"]["repository"]["owner"] }}
 {{ $node["Github Trigger1"].json["body"]["starred_at"] }}
 {{ $node["Github Trigger1"].json["body"]["repository"]["comments_url"] }}
+{{ $node["Github Trigger1"].json["body"]["commits"]["0"]["message"] }}
+{{ $node["Github Trigger1"].json["body"]["head_commit"]["timestamp"] }}
