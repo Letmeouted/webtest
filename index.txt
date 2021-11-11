@@ -5,3 +5,4 @@
 {{ $node["Github Trigger1"].json["body"]["head_commit"]["timestamp"] }}
 ["body"]["head_commit"]["timestamp"]
 ["body"]["head_commit"]["timestamp"]
+["body"]["head_commit"]["timestamp"]*3
